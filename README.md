@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **AMU Entrance Preparation Website**
-- 🌱 Learning **Full Stack Development**
+- 🌱 Learning **Full Stack Development & Machine Learning**
 - 👨‍💻 All projects:  
-  👉 https://github.com/Shaaz29?tab=repositories
+  👉 [GitHub Repositories](https://github.com/Shaaz29?tab=repositories)
 - 📫 Email: **ahmadshaaz2910@gmail.com**
 
 ---
@@ -44,4 +44,10 @@
 
 ### 📜 Certifications
 - 🎓 **Learn C++ Programming – Beginner to Advanced (Deep Dive in C++)**  
-  🔗 https://www.udemy.com/certificate/UC-f4153bcd-ef09-4296-a97c-33ba9b5fd774/
+  🔗 [Udemy Certificate](https://www.udemy.com/certificate/UC-f4153bcd-ef09-4296-a97c-33ba9b5fd774/)
+
+- ☁️ **Microsoft Azure Machine Learning for Data Scientists**  
+  🔗 [Coursera Certificate](https://coursera.org/share/0bcd78cb1405ffc564fc927c36776327)
+
+- 🤖 **Introduction to Artificial Intelligence (AI)**  
+  🔗 [Coursera Certificate](https://coursera.org/share/07e5314cff7446dccc2a6cc47c2ba519)
