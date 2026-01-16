@@ -10,7 +10,8 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working on **AMU Entrance Preparation Website**
 - 🌱 Learning **Full Stack Development**
-- 👨‍💻 All projects: [GitHub Repositories](https://github.com/Shaaz29?tab=repositories)
+- 👨‍💻 All projects:  
+  👉 https://github.com/Shaaz29?tab=repositories
 - 📫 Email: **ahmadshaaz2910@gmail.com**
 
 ---
@@ -43,12 +44,4 @@
 
 ### 📜 Certifications
 - 🎓 **Learn C++ Programming – Beginner to Advanced (Deep Dive in C++)**  
-  🔗 Udemy Certificate:  
-  https://www.udemy.com/certificate/UC-f4153bcd-ef09-4296-a97c-33ba9b5fd774/
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaaz29&layout=compact&theme=github_dark&cache_seconds=86400"/>
-</p>
+  🔗 https://www.udemy.com/certificate/UC-f4153bcd-ef09-4296-a97c-33ba9b5fd774/
