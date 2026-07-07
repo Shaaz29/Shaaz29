@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Shaaz</h1>
 
-<h3 align="center">MCA Graduate | Full Stack Developer | Python & Django Developer</h3>
+<h3 align="center">MCA Graduate | Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Python+Developer;Django+Developer;Always+Learning+New+Technologies" />
