@@ -3,11 +3,11 @@
 <h3 align="center">MCA Graduate | Full Stack Developer | Python & Django Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Python+Developer;Django+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Python+Developer;Django+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shaaz29&label=Profile%20Views&color=0E75B6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shaaz29&label=Profile%20Views&color=0E75B6&style=flat" />
 </p>
 
 ---
@@ -27,20 +27,36 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/Shaaz29">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:ahmadshaaz2910@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<!-- Add your LinkedIn link below -->
-<!--
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
--->
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaaz29&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Shaaz29&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaaz29&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -49,7 +65,9 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaaz29&theme=github-dark&hide_border=true" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaaz29&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -57,7 +75,9 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,mysql,linux,azure,git,github,html,css,bootstrap,js,cpp,cs,vscode,bash&perline=7"/>
+
+<img src="https://skillicons.dev/icons?i=python,django,mysql,linux,azure,git,github,html,css,bootstrap,js,cpp,cs,vscode,bash&perline=8"/>
+
 </p>
 
 ---
@@ -65,7 +85,9 @@
 ## 📚 Currently Learning
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
 </p>
 
 ---
