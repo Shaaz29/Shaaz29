@@ -49,12 +49,14 @@
 ---
 
 ## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-nine.vercel.app/api?username=Shaaz29&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Shaaz29&theme=github-dark-blue&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaaz29&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Shaaz29&theme=github-dark-blue&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=Shaaz29&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaaz29&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 > ℹ️ Note: If these cards ever show a broken image icon again, the public `github-readme-stats.vercel.app` service is likely rate-limited or paused — see [this known issue](https://github.com/anuraghazra/github-readme-stats/issues/4737). Self-hosting your own instance is the most reliable long-term fix.
